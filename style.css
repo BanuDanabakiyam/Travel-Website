@@ -110,8 +110,22 @@ nav{
 .exclusives div img{
     width: 100%;
     border-radius: 10px;
+    transition: 0.5s all ease-in-out;
 
+}
+.exclusives div img:hover{
+    transform: scale(0.5);
 }
 .exclusives div{
     position: relative;
 }
+.exclusives div span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+}
+
+/* Treding Places */
