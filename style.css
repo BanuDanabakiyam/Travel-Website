@@ -326,4 +326,24 @@ nav .fa-bars{
 .cta{
     padding: 15% 5%;
 }
+.cta h3{
+    font-size: 7vw;
+    line-height:8vw ;
+}
+.cta p{
+    font-size: 14px;
+}
+.cta-btn{
+    padding: 6px 15px;
+    border-radius: 4px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+.stories{
+    font-size: 20px;
+}
+.about-msg{
+    font-size: 15px;
+}
+
 }
